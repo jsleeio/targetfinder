@@ -11,6 +11,7 @@ The Unix (including macOS) system dictionary is used and assumed to be in
 
 ## usage
 
+```
 $ ./targetfinder -help
 Usage of ./targetfinder:
   -dictionary string
@@ -19,3 +20,4 @@ Usage of ./targetfinder:
     	key letter. Must be exactly 1 character (default "t")
   -target string
     	target letters. Must be exactly 9 characters (default "dtgmtiaei")
+```
